@@ -1,0 +1,9 @@
+html{
+
+	scroll-behavior: smooth;
+
+}
+
+.gradiente{
+	background-image: linear-gradient(white,lightgray)
+}
