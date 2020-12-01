@@ -7,3 +7,20 @@ html{
 .gradiente{
 	background-image: linear-gradient(white,lightgray)
 }
+
+p{
+	text-align: justify;
+}
+
+.imagemlala{
+	padding-left: 120px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+	padding-right: 100px;
+	border-radius: 10px;
+
+}
+
+img, p{
+	display: inline-block;
+}
