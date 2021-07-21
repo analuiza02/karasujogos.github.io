@@ -24,3 +24,21 @@ p{
 img, p{
 	display: inline-block;
 }
+
+section .ana{
+	vertical-align: center;
+	margin-left:120px;
+}
+
+#teste {
+	vertical-align: center;
+	padding-left: 150px;
+}
+
+#curiosidades {
+	padding-left: 100px;
+}
+
+#contato {
+	padding-left: 100px;
+}
